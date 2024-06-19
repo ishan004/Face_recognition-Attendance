@@ -1,0 +1,9 @@
+#VENV
+/env
+
+#files
+/misc
+/Files
+
+#service Account key from firebase
+serviceAccountKey.json
